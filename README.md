@@ -1,4 +1,4 @@
-We are @thealmightymachine. A humble collective of digital mercenaries. 
+We are @thealmightymachine. Digital mercenaries. 
 
 <!---
 thealmightymachine/thealmightymachine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
